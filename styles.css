@@ -1,0 +1,20 @@
+body{
+text-align: center;
+  background-color: #242424;
+}
+.box{
+  margin: 250px;
+}
+#bottle{
+  transform: rotate(0);
+  transition: all 2s;
+  cursor: pointer;
+
+}
+.btn{
+  width: 200px;
+  height: 55px;
+  font-size: 25px;
+  font-family: monospace;
+
+}
